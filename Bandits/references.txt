@@ -1,0 +1,4 @@
+1. Argparse Module https://docs.python.org/3.8/library/argparse.html#module-argparse
+2. numpy.random module https://numpy.org/doc/stable/reference/random/index.html
+3. Bandit Algorithms Based on Thompson Sampling for Bounded Reward Distributions by Charles Riou and Junya Honda
+4. KL Divergence https://math.stackexchange.com/questions/2604566/kl-divergence-between-two-multivariate-bernoulli-distribution
