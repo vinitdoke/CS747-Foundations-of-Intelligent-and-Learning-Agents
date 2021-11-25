@@ -1,0 +1,5 @@
+1. subprocess module https://docs.python.org/3/library/subprocess.html
+2. argparse module https://docs.python.org/3.8/library/argparse.html#module-argparse
+3. value iteration https://towardsdatascience.com/the-value-iteration-algorithm-4714f113f7c5
+4. pulp reference https://towardsdatascience.com/linear-programming-and-discrete-optimization-with-
+python-using-pulp-449f3c5f6e99
