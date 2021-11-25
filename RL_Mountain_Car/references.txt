@@ -1,0 +1,4 @@
+1. Tile Coding https://towardsdatascience.com/reinforcement-learning-tile-coding-implementation-7974b600762b
+2. SARSA with LFA  https://artint.info/2e/html/ArtInt2e.Ch12.S9.SS1.html
+3. Book : Sutton & Barto
+4. OpenAI Gym \\ https://gym.openai.com/docs/
